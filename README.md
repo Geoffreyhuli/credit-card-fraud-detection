@@ -1,4 +1,6 @@
 # credit-card-fraud-detection
+相关结果详见result
+
 ## 数据加载与预处理 (train.py 和 test.py)
 
 ### 数据加载
